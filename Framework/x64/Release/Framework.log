@@ -1,0 +1,10 @@
+﻿  app.cpp
+  DirectSound.cpp
+  linking with Microsoft's DirectSound library ...
+  main.cpp
+  SimpleController.cpp
+  SimpleSound.cpp
+  SimpleSprite.cpp
+  stdafx.cpp
+  TextureLoader.cpp
+  Framework.vcxproj -> E:\Work\Recrutement\FuWIG\FutureWomenInGame\x64\Release\Framework.lib
