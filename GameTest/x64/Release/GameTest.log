@@ -1,0 +1,10 @@
+﻿  GameTest.cpp
+  MainCharacter.cpp
+  Generating code
+  10 of 316 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameTest.vcxproj -> E:\Work\Recrutement\FuWIG\FutureWomenInGame\x64\Release\GameTest.exe
+  E:\Work\Recrutement\FuWIG\FutureWomenInGame\\glut\bin\x64\freeglut.dll
+  1 fichier(s) copié(s)
